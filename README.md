@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning **Golang & Python**
 
-- 👨‍💻 All of my projects are available at [https://dub.sh/7EP31cX](https://dub.sh/7EP31cX)
+- 👨‍💻 All of my projects are available at [https://shaqeeb.com](https://dub.sh/shaqeeb-website)
 
 - 📫 How to reach me **shaqeebakhtar01@gmail.com**
 
-- 📄 Know about my experiences [https://dub.sh/XorK7tk](https://dub.sh/XorK7tk)
+- 📄 Know about my experiences [Resume](https://dub.sh/shaqeeb-resume)
